@@ -1,0 +1,1 @@
+ C:\\Users\\DELL\\Desktop\\weatherapp_starter_project\\.dart_tool\\flutter_build\\efe8aecffaeb6ce3b3f3a74f88d0352f\\native_assets.yaml: 
